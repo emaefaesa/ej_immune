@@ -1,0 +1,13 @@
+
+
+.container {
+    display: grid;
+    border: 1px solid;
+    grid-template-columns: 10% 50% 30% 10%;
+    justify-content: center;
+}
+
+.row {
+    
+    border: 1px solid;
+}
